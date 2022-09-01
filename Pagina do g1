@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title> Artigo </title>
+
+        <style>
+
+            @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');                  
+                
+            body {
+
+                font-family: 'Open Sans', sans-serif;
+                font-style: normal;
+                color: #333333;
+                font-weight: 400;
+                font-size: 20px;
+                line-height: 32px;
+               
+            }
+
+            .margem_cabecalho {
+
+                margin-left: 175px;
+
+            }
+
+            .margem_corpo {
+
+                margin-top: 69px;
+                margin-left: 315px;
+
+            }
+
+            .margem_citacao {
+
+                margin-left: 14px;
+
+            }
+
+            h1 {
+
+                font-weight: 700;
+                font-size: 56px;
+                line-height: 64px;
+
+            }
+
+            subtitulo {
+
+                color: #555555;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 28px;
+
+            }
+
+            autor {
+
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 20px;
+
+            }
+
+            data {
+
+                font-weight: 400;
+                font-size: 12px;
+                line-height: 16px;
+
+            }
+
+            h2 {
+
+                font-weight: 700;
+                font-size: 32px;
+                line-height: 36px;
+
+            }
+
+            destaque {
+
+                color: #A6130A;
+                font-weight: 700;
+                font-size: 20px;
+                line-height: 32px;
+
+            }
+
+            citacao {
+
+                font-weight: 600;
+                font-size: 28px;
+                line-height: 36px;
+
+            }
+
+            .vertical {
+
+                border-left: 3px solid #A6130A;
+                width: auto;
+            
+            }
+
+        </style>
+
+    </head>
+
+    <body>
+        
+        <div class = margem_cabecalho>
+
+            <h1> Com desemprego recorde e sem </br>
+            Auxílio, alta do PIB no 1º trimestre </br>
+            só foi sentida por parte da </br>
+            população </h1>
+            
+            <subtitulo> Nem todo brasileiro sentiu os efeitos do crescimento da atividade econômica demonstrado pela </br>
+            alta do PIB. Com desemprego recorde, milhões de pessoas seguem sem renda – e sem consumir – </br>
+            no país. </subtitulo>
+            
+            <autor> <p> <strong> Por Daniel Silveira, G1 — </strong> Rio de Janeiro </p> </autor>
+
+            <data> <p> 01/06/2021 09h29 Atualizado há 5 horas </p> </data>
+
+        </div>
+
+        <hr>
+
+        <div class = margem_corpo>
+
+            <p> A economia brasileira voltou a crescer nos primeiros três meses de 2021: </br>
+            segundo dados divulgados nesta terça-feira (1º) pelo IBGE, <destaque> a alta foi de </br>
+            1,2% sobre o trimestre anterior </destaque>. A expansão, no entanto, foi bastante </br>
+            desigual – e seus efeitos não foram disseminados entre a população, </br>
+            deixando de fora especialmente a classe de renda mais baixa. </p>
+
+            <ul>
+
+                <destaque> <p> <li> PIB do Brasil cresce 1,2% no 1º trimestre e volta ao patamar </br>
+                pré-pandemia </li> </p>
+                
+                <p> <li> Veja 5 fatores que explicam a surpresa com o PIB do 1º trimestre </br>
+                e 5 pontos de preocupação </li> </p>
+                
+                <p> <li> Novas rodadas do Pronampe e Auxílio Emergencial teriam </br>
+                contribuído para PIB ainda mais forte, avaliam analistas </li> </p> </destaque>
+
+            </ul>
+            
+            <p> Apesar da criação de vagas formais ao longo do trimestre, o </br>
+            <destaque> desemprego seguiu batendo recordes: </destaque> em março, eram 14,8 milhões </br>
+            de brasileiros sem trabalho. E sem a ajuda do <destaque> Auxílio Emergencial </destaque> (que </br>
+            só voltou a ser pago, e em valores reduzidos, em abril deste ano), </br>
+            milhões de brasileiros seguem sem conseguir melhorar seus patamares </br>
+            de consumo – segundo os dados do PIB, o consumo das famílias recuou </br>
+            0,1% de janeiro a março, após dois trimestres de crescimento. </p>
+
+            <p> Com a recuperação desigual, alguns brasileiros já comemoram a saída </br>
+            da crise, enquanto outros conseguem ver a luz no fim desse túnel já no </br>
+            segundo trimestre. Para muitos, no entanto, a retomada ainda parece </br>
+            distante. </p>
+
+            <p> <strong> Conheça abaixo a história de alguns deles.  </strong> </p>
+
+            <h2> Sem emprego e sem auxílio </h2>
+            
+            <p> O pizzaiolo Alexsandro Melo de Oliveira, de 35 anos, viu a situação </br>
+            financeira de sua família se agravar ainda mais entre janeiro e março. </br>
+            Sua jornada de trabalho integral foi restabelecida em janeiro – ele </br>
+            passou oito meses com carga horária reduzida, assim como o salário. </br>
+            Mas sua esposa, Cristiane Gomes, de 39 anos, trabalhadora doméstica </br>
+            desempregada desde o começo da pandemia, ficou sem o auxílio </br>
+            emergencial do governo, suspenso nos três primeiros meses do ano. </p>
+            
+            <div class = vertical>
+
+                <div class = margem_citacao>
+
+                    <citacao> <p> “Minha mulher ficar desempregada logo que </br>
+                    começou a pandemia me arrebentou muito, </br>
+                    porque ficamos só com meu salário de pizzaiolo. </br>
+                    Por pouco a gente passou necessidade. Quando </br>
+                    ela começou a receber o auxílio do governo, </br>
+                    deu uma melhoradinha e ele fez muita falta no </br>
+                    começo do ano”, contou. </p> </citacao>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </body>
+
+</html>
